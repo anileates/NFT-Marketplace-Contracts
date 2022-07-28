@@ -1,0 +1,24 @@
+{
+  "name": "nft-marketplace-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.8",
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "chai": "^4.3.6",
+    "ganache-cli": "^6.12.2",
+    "node": "^14.0.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "scrypt-js": "^3.0.1",
+    "truffle": "^5.5.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
